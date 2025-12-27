@@ -1,1 +1,3 @@
-# Bankacilik-Projesi
+Harun Tayık 25151513016
+
+JAVA İLE BANKACILIK PROGRAMI
